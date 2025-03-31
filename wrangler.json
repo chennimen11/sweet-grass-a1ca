@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "sweet-grass-a1ca",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e72a01c3-2f3c-44c3-b195-6dfa113a7e86",
+      "database_name": "gentle-bush-7b86-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
